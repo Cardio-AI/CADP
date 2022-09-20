@@ -1,0 +1,17 @@
+scikit-learn
+matplotlib
+seaborn
+numpy
+torch
+tqdm
+torchvision
+opencv-python
+pandas
+ipywidgets
+visdom
+albumentations
+monai
+nibabel
+SimpleITK
+pillow
+opacus
