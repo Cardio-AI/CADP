@@ -27,7 +27,6 @@ In addition, we show the generalizability of our method to categorical data.
   title={Content Aware Differential Privacy with Conditional Invertible Neural Network},
   author={T{\"o}lle, Malte and K{\"o}the, Ulrich and André, Florian and Meder, Benjamin and Engelhardt, Sandy},
   journal={arXiv preprint arXiv:2207.14625
-},
   year={2022}
 }
 ```
